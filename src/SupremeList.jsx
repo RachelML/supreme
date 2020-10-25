@@ -4,18 +4,34 @@ import SupremeRow from './SupremeRow.jsx';
 
 class SupremeList extends Component {
 
+   
 
   render() {
 
+
+    const allJustices = this.props.justices.map((justice) => {
+
+
       return (
         
-    <div>
-          <SupremeRow />
-        Supreme list
-    </div>
+   
+          <SupremeRow 
+          justice={justice}
+          key={justice.id} 
+
+           />
+   
       )
   
-}
+})
+
+return(
+    <div>
+        <h1>Justices</h1>
+        {allJustices}
+    </div>
+)
+  }
 }
 
 export default SupremeList
