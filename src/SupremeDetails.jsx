@@ -14,8 +14,12 @@ class SupremeDetails extends Component {
     </div>
     )
   }
+  const posterUrl = `https://www.supremecourt.gov/about/justice_pictures${this.props.current.poster_path}`
+   
   return (
       <div>
+    <img src={posterUrl} />
+
           <h1>image of justice</h1>
           <h1>bio</h1>
       </div>

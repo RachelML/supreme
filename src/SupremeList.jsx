@@ -18,6 +18,7 @@ class SupremeList extends Component {
           <SupremeRow 
           justice={justice}
           key={justice.id} 
+          onDetailsClick={() => this.props.onDetailsClick(justice)}
 
            />
    

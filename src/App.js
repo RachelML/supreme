@@ -34,16 +34,18 @@ class App extends Component {
     this.setState({faves})
   }
 
-  async handleDetailsClick(justice) {
-  
+   handleDetailsClick() {
+    
+    https://www.supremecourt.gov/about/justice_pictures
+    this.setState({current: this.state.justices})
+    console.log(this.state.justices)
   }
-
 
 
   render() {
     return (
       <div>
-        <SupremeList justices={this.state.justices} />
+        <SupremeList justices={this.state.justices} faves={this.state.faves} onFaveToggle={this.handleFaveToggle} onDetailsClick={this.handleDetailsClick} />
         <SupremeDetails justices={this.state.justices} current={this.state.current} />
       </div>
     )
