@@ -16,13 +16,24 @@ class SupremeDetails extends Component {
   }
   const posterUrl = `https://www.supremecourt.gov/about/justice_pictures${this.props.current.poster_path}`
    
-  return (
-      <div>
-    <img src={posterUrl} />
+  return  (
+    <div className="film-details">
 
-          <h1>image of justice</h1>
-          <h1>bio</h1>
-      </div>
+    <div className="film-detail is-hydrated">
+    <figure className="film-backdrop">
+      <img src={posterUrl} alt="" />
+      <h1 className="film-title">{this.props.current.title}</h1>
+    </figure>
+  
+    <div className="film-meta">
+      <h2 className="film-tagline">{this.props.current.tagline}</h2>
+      <p className="film-detail-overview">
+        <img src={posterUrl} className="film-detail-poster" alt={this.props.current.title} />
+        {this.props.current.overview}
+      </p>
+    </div>
+  </div>
+  </div>
   )
 }
 }

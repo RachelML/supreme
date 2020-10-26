@@ -27,8 +27,8 @@ class SupremeList extends Component {
 })
 
 return(
-    <div>
-        <h1>Justices</h1>
+    <div className="sup-list">
+        <h1 className="section-title">Justices</h1>
         {allJustices}
     </div>
 )
