@@ -5,13 +5,15 @@ class SupremeRow extends Component {
 
   render() {
     return (
-      <div  onClick={this.props.onDetailsClick}>
-        <div>
-        <h1>{this.props.justice.title}</h1>
-        
+      <div className="sup-row" onClick={this.props.onDetailsClick}>
+            
         <SupremePost justice={this.props.justice} />
+        <div className="sup-summary">
+
+        <h1>{this.props.justice.title}</h1>
 
         </div>
+       
 
       </div>
     )
