@@ -7,10 +7,13 @@ class SupremeDetails extends Component {
 
     if (!current.id) {
     return (
-      <div className="sup-details">
-      <h1 className="section-title">DETAILS</h1>
-      <span>No Justice selected</span>
-
+        <div className="sup-details">
+        <h1 className="section-title">DETAILS</h1>
+      <div className="sup-detail">
+      <p>
+        <span>No justice selected</span>
+      </p>
+    </div>
     </div>
     )
   }

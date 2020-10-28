@@ -11,6 +11,8 @@ class SupremeRow extends Component {
         <div className="sup-summary">
 
         <h1>{this.props.justice.title}</h1>
+        <p>{this.props.justice.release_date}</p>
+
 
         </div>
        

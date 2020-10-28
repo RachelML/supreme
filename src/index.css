@@ -34,7 +34,7 @@ figure {
   justify-content: space-around;
 }
 
-.film-list {
+.sup-list {
   position: relative;
   flex: 1 0 33.333333%;
   height: 100%;
@@ -69,7 +69,7 @@ figure {
   position: fixed;
   top: 0;
   z-index: 10;
-  background-color: #777;
+  background-color: rgba(219, 55, 50, 0.75);
   color: white;
   text-align: center;
   font-size: 0.75em;
@@ -95,7 +95,6 @@ figure {
   display: grid;
   position: relative;
   grid-template-columns: 1fr 3fr;
-
   margin-bottom: 0.2rem;
   font-size: 0.5em;
   background-color: white;
@@ -160,7 +159,6 @@ figure {
 
 .sup-detail-poster {
   float: right;
-  width: 20%;
   margin-left: 2em;
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.35);
 }
@@ -169,5 +167,13 @@ figure {
   padding: 1em 1.5em;
   line-height: 1.45;
   color: white;
-  background-color: rgba(13, 28, 107, 0.75);
+  background-color: rgba(62, 145, 196, 0.75);
 }
+
+.sup-detail > p {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 0.25em;
+}
+
+
