@@ -24,7 +24,7 @@ const JusticeInfo = {
       "id": 339403,
         "title": "Stephen G. Breyer",
         "poster_path": "/Breyer_8664-13-Crop.jpg",
-        "backdrop_path": "/cnnnext/dam/assets/120517164648-associate-justice-stephen-breyer-large-169.jpg",
+        "backdrop_path": "/cnnnext/dam/assets/120213104636-justice-stephen-breyer-story-top.jpg",
         "overview": "was born in San Francisco, California, August 15, 1938. He married Joanna Hare in 1967, and has three children - Chloe, Nell, and Michael. He received an A.B. from Stanford University, a B.A. from Magdalen College, Oxford, and an LL.B. from Harvard Law School. He served as a law clerk to Justice Arthur Goldberg of the Supreme Court of the United States during the 1964 Term, as a Special Assistant to the Assistant U.S. Attorney General for Antitrust, 1965–1967, as an Assistant Special Prosecutor of the Watergate Special Prosecution Force, 1973, as Special Counsel of the U.S. Senate Judiciary Committee, 1974–1975, and as Chief Counsel of the committee, 1979–1980. He was an Assistant Professor, Professor of Law, and Lecturer at Harvard Law School, 1967–1994, a Professor at the Harvard University Kennedy School of Government, 1977–1980, and a Visiting Professor at the College of Law, Sydney, Australia and at the University of Rome. From 1980–1990, he served as a Judge of the United States Court of Appeals for the First Circuit, and as its Chief Judge, 1990–1994. He also served as a member of the Judicial Conference of the United States, 1990–1994, and of the United States Sentencing Commission, 1985–1989. President Clinton nominated him as an Associate Justice of the Supreme Court, and he took his seat August 3, 1994.",
         "release_date": "Nominated by President Bill Clinton, Confirmed in 1994"
     },
@@ -32,7 +32,7 @@ const JusticeInfo = {
         "id": 335984,
         "title": "Samuel A. Alito",
         "poster_path": "/Alito_9264-001-Crop.jpg",
-        "backdrop_path": "/zfWPeRgYpRjPZLGwwkfnTfaFnNh.jpg",
+        "backdrop_path": "/cnnnext/dam/assets/161206091607-01-scotus-building-file.jpg",
         "overview": "was born in Trenton, New Jersey, April 1, 1950. He married Martha-Ann Bomgardner in 1985, and has two children - Philip and Laura. He served as a law clerk for Leonard I. Garth of the United States Court of Appeals for the Third Circuit from 1976–1977. He was Assistant U.S. Attorney, District of New Jersey, 1977–1981, Assistant to the Solicitor General, U.S. Department of Justice, 1981–1985, Deputy Assistant Attorney General, U.S. Department of Justice, 1985–1987, and U.S. Attorney, District of New Jersey, 1987–1990. He was appointed to the United States Court of Appeals for the Third Circuit in 1990. President George W. Bush nominated him as an Associate Justice of the Supreme Court, and he took his seat January 31, 2006.",
         "release_date": "Nominated by President George W. Bush, Confirmed in 2006"
     },
@@ -48,7 +48,7 @@ const JusticeInfo = {
       "id": 374720,
         "title": "Elena Kagan",
         "poster_path": "/Kagan_10713-017-Crop.jpg",
-        "backdrop_path": "/cnnnext/dam/assets/180725151541-elena-kagan-scotus-0725-large-169.jpg",
+        "backdrop_path": "/cnnnext/dam/assets/190719101836-elena-kagan-super-tease.jpg",
         "overview": "was born in New York, New York, on April 28, 1960. She received an A.B. from Princeton in 1981, an M. Phil. from Oxford in 1983, and a J.D. from Harvard Law School in 1986. She clerked for Judge Abner Mikva of the U.S. Court of Appeals for the D.C. Circuit from 1986-1987 and for Justice Thurgood Marshall of the U.S. Supreme Court during the 1987 Term. After briefly practicing law at a Washington, D.C. law firm, she became a law professor, first at the University of Chicago Law School and later at Harvard Law School. She also served for four years in the Clinton Administration, as Associate Counsel to the President and then as Deputy Assistant to the President for Domestic Policy. Between 2003 and 2009, she served as the Dean of Harvard Law School. In 2009, President Obama nominated her as the Solicitor General of the United States. A year later, the President nominated her as an Associate Justice of the Supreme Court on May 10, 2010. She took her seat on August 7, 2010.",
         "release_date": "Nominated by President Barack Obama, Confirmed in 2010"
     },
@@ -64,7 +64,7 @@ const JusticeInfo = {
       "id": 390043,
         "title": "Brett M. Kavanaugh",
         "poster_path": "/Kavanaugh%2012221_005_crop.jpg",
-        "backdrop_path": "/cnnnext/dam/assets/180927165153-17-kavanaugh-senate-hearing-0927-large-169.jpg",
+        "backdrop_path": "/cnnnext/dam/assets/180917080532-05-brett-kavanaugh-09-17-2018-super-tease.jpg",
         "overview": "was born in Washington, D.C., on February 12, 1965. He married Ashley Estes in 2004, and they have two daughters - Margaret and Liza. He received a B.A. from Yale College in 1987 and a J.D. from Yale Law School in 1990. He served as a law clerk for Judge Walter Stapleton of the U.S. Court of Appeals for the Third Circuit from 1990-1991, for Judge Alex Kozinski of the U.S. Court of Appeals for the Ninth Circuit from 1991-1992, and for Justice Anthony M. Kennedy of the U.S. Supreme Court during the 1993 Term. In 1992-1993, he was an attorney in the Office of the Solicitor General of the United States. From 1994 to 1997 and for a period in 1998, he was Associate Counsel in the Office of Independent Counsel. He was a partner at a Washington, D.C., law firm from 1997 to 1998 and again from 1999 to 2001. From 2001 to 2003, he was Associate Counsel and then Senior Associate Counsel to President George W. Bush. From 2003 to 2006, he was Assistant to the President and Staff Secretary for President Bush. He was appointed a Judge of the United States Court of Appeals for the District of Columbia Circuit in 2006. President Donald J. Trump nominated him as an Associate Justice of the Supreme Court, and he took his seat on October 6, 2018.",
         "release_date": "Nominated by President Donald Trump, Confirmed in 2018"
     },
@@ -73,7 +73,7 @@ const JusticeInfo = {
         "title": "Amy Coney Barrett",
         "poster_path": "",
         "backdrop_path": "/cnnnext/dam/assets/201026213314-09-wh-barrett-sworn-in-1026-exlarge-169.jpg",
-        "overview": "",
+        "overview": "Amy Coney Barrett was a top student at Notre Dame Law School before returning to her alma mater to become a distinguished professor. After three years on the bench for the United States Court of Appeals for the Seventh Circuit, the conservative judge was nominated by President Donald Trump to replace recently deceased Justice Ruth Bader Ginsburg on the U.S. Supreme Court in September 2020. The Senate confirmed her to the Supreme Court in October 2020.",
         "release_date": "Nominated by President Donald Trump, Confirmed in 2020"
     }
   ]

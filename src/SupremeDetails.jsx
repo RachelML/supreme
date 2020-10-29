@@ -6,10 +6,12 @@ class SupremeDetails extends Component {
 
 
     if (!current.id) {
+        const background = ' https://cdn.cnn.com/cnnnext/dam/assets/161206091607-01-scotus-building-file.jpg'
     return (
         <div className="sup-details">
         <h1 className="section-title">DETAILS</h1>
       <div className="sup-detail">
+          <img  src={background} />
       <p>
         <span>No justice selected</span>
       </p>
