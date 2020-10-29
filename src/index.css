@@ -21,6 +21,10 @@ img {
   max-width: 100%;
 }
 
+.cover-image{
+  /* max-width: 150%; */
+}
+
 figure {
   margin: 0;
 }
@@ -84,6 +88,9 @@ figure {
   background-color: #f0f0f0;
   position: relative;
   overflow-y: scroll;
+  background-image: url("https://static01.nyt.com/images/2020/10/27/world/27DC-KAVANAUGH01/merlin_179123436_060cc5f8-bf5e-4e41-9ec9-e09164d80853-superJumbo.jpg?quality=90&auto=webp");
+  background-repeat: no-repeat;
+  background-size: auto 100%;
 }
 
 .sup-details > .section-title {
@@ -174,6 +181,20 @@ figure {
   text-align: center;
   font-size: 2em;
   margin-bottom: 0.25em;
+  
+
 }
 
+.title-selection {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  overflow-y: scroll;
+  margin-bottom: 2em;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+ font-weight: 300;
 
+}

@@ -11,10 +11,10 @@ class SupremeDetails extends Component {
         <div className="sup-details">
         <h1 className="section-title">DETAILS</h1>
       <div className="sup-detail">
-          <img  src={background} />
-      <p>
-        <span>No justice selected</span>
-      </p>
+          {/* <img className="cover-image"  src={background} /> */}
+    
+        <p className="title-selection">No justice selected</p>
+     
     </div>
     </div>
     )
